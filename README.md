@@ -2,4 +2,4 @@
 - Data Loading
 - Data Cleaning
 - Explotary Data Analysis
-- Data Visulization
+- Data Visulizations
